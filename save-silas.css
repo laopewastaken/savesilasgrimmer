@@ -14,13 +14,13 @@ ul li {
 img {
 	border: none;
 }
-#walter-container {
+#silas-container {
 	margin: 0 auto;
 	padding: 20px;
 	text-align: center;
 	width: 965px;
 }
-#walter-container h1 {
+#silas-container h1 {
 	color: #FFF;
 	font-family: times,helvetic,sans-serif;
 	font-size: 112px;
@@ -28,36 +28,36 @@ img {
 	padding-top: 12px;
 	
 }
-#walter-container h3 {
+#silas-container h3 {
 	font-size: 40px;
 	font-weight: normal;
 	margin: 0;
 }
-#walter-container p {
+#silas-container p {
 	font-weight: bold;
 	margin: 1em 50px;
 	line-height: 1.2em;
 	text-align: left;
 }
-#walter-container p.middle {
+#silas-container p.middle {
 	text-align: center;
 }
-#walter-container ul#second_row {
+#silas-container ul#second_row {
 	margin: 42px 0;
 }
-#walter-container ul#second_row li {
+#silas-container ul#second_row li {
 	margin: 0px 18px;
 }
-#walter-container ul#second_row li img {
+#silas-container ul#second_row li img {
 	vertical-align: top;
 }
-#walter-container ul#fourth_row li {
+#silas-container ul#fourth_row li {
 	margin: 40px 95px;
 }
-#walter-container #donate-container {
+#silas-container #donate-container {
 	margin: 40px 0;
 }
-#walter-container #donations-so-far {
+#silas-container #donations-so-far {
 	background: #000;
 	width: 840px;
 	height: 185px;
